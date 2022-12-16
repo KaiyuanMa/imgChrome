@@ -7,7 +7,7 @@ Web Image Translator, translate text within image to desired language. The exten
 # IMPORTANT
 CROS needs to be allowed for this extension to work.
 How to allow CROS:
-1. Go to https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf .
+1. Go to https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf
 2. Add the extension to your chrome.
 3. Enable cros.
 
