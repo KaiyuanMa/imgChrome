@@ -25,4 +25,7 @@ CROS enbale the extension to download the image from websites, and It should be 
 5. Hover on the image and right click, look for the option "Translate image" and click it. The image should be translated after a couple of seconds.
 
 # How it works:
-The extension uses google cloud vision to detected text within the image, and google cloud translate to translate the text, and lastly using canvas to draw the translated text back to the old image, and than replace the img src to replace the old image to translated image. 
+The extension uses google cloud vision to detected text within the image, and google cloud translate to translate the text, and lastly using canvas to draw the translated text back to the old image, and than replace the img src to replace the old image to translated image.
+
+This repo is not responsable for detecting and translating the text in image, these funcationality are provide by imgChromeServer,link is below
+https://github.com/KaiyuanMa/imgChromeServer
